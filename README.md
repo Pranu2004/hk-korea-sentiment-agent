@@ -306,3 +306,14 @@ The benchmark uses historical price-derived features. It does not yet use sentim
 ## Author
 
 Developed as an AI Agents Developer Internship assignment.
+
+## Data Collection Actor IDs
+
+- LIHKG Scraper: `PJDFRxJdpPknN9nYn`
+- Naver Stock Discussion Scraper: `hgservices/naver-stock-discussion-scraper`
+- Telegram Channel Scraper: `datalume/telegram-channel-scraper`
+- Exa: News search API (API key configured locally in `.env`; not an Apify actor).
+
+Only successful, usable source runs are included. Xueqiu was tested but returned no usable records and was excluded.
+
+API credentials are intentionally excluded from this public repository.
