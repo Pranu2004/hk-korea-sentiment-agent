@@ -1,0 +1,2 @@
+training_rows,testing_rows,split_date,return_mae_pct,return_rmse_pct,model_price_mae,model_price_rmse,baseline_price_mae,baseline_price_rmse,model_directional_accuracy_pct,baseline_directional_accuracy
+3745,940,2026-07-07,2.4950264601588095,3.6745012186028845,10603.510743793107,33449.29948671051,10437.45946394129,32818.48958876931,49.68085106382979,N/A (zero-movement baseline)
